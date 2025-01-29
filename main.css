@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+html {
+        background-color: beige;
+}
+body {
+     background-color: white;
+     height: : 100vh;
+     max-width: 800px;
+     margin: auto;
+     font-family:  verdana, gineva, tahoma, sans-serif;
+
+}
+h1 {
+    text-align: center;
+    padding: 25pixels, 0;
+
+}
+div {
+    height: 200;
+    width: 2;
+    border: 2px, solid, black;
+    text-align: center;
+    margin: 25px auto;
+    padding: 25px;
+
+}
